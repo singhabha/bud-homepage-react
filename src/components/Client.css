@@ -1,0 +1,15 @@
+.carousel-control-prev-icon {
+  background-image: none !important;
+  /* color: black !important; */
+  /* background-color: black; */
+}
+.carousel-control-next-icon {
+  background-image: none !important;
+  /* color: gray !important; */
+}
+.heading {
+  font-size: 2rem;
+}
+/* .client-img{
+    z-index: 0 !important;
+  } */
